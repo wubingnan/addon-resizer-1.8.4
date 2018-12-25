@@ -1,0 +1,1 @@
+# addon-resizer-1.8.4
